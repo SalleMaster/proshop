@@ -25,3 +25,19 @@
 ## Express async handler
 
 - npm i express-async-handler
+
+### Frontend dependencies
+
+## Install these in frontend folder
+
+## Router
+
+- react-router-dom react-router-bootstrap
+
+## REST API
+
+- npm i axios
+
+## Redux
+
+- npm i redux react-redux redux-thunk redux-devtools-extension

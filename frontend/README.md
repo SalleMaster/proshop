@@ -1,13 +1,3 @@
-## Dependencies
-
-### Redux
-
-- react-router-dom react-router-bootstrap
-
-### REST API
-
-- npm i axios
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
