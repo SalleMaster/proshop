@@ -26,6 +26,10 @@
 
 - npm i express-async-handler
 
+## JSON WEB Token
+
+- npm i jsonwebtoken
+
 ### Frontend dependencies
 
 ## Install these in frontend folder
