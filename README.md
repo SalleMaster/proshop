@@ -45,3 +45,7 @@
 ## Redux
 
 - npm i redux react-redux redux-thunk redux-devtools-extension
+
+## React PayPal Button
+
+- npm install react-paypal-button-v2
