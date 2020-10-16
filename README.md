@@ -30,6 +30,10 @@
 
 - npm i jsonwebtoken
 
+## Image Upload (Multer)
+
+- npm i multer
+
 ### Frontend dependencies
 
 ## Install these in frontend folder
