@@ -34,6 +34,10 @@
 
 - npm i multer
 
+## Morgan
+
+- npm i morgan
+
 ### Frontend dependencies
 
 ## Install these in frontend folder
