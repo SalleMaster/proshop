@@ -57,3 +57,7 @@
 ## React PayPal Button
 
 - npm install react-paypal-button-v2
+
+## React Helmet (dynamic page titles)
+
+- npm i react-helmet
